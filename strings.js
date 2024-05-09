@@ -1,7 +1,7 @@
-let a="Khushi"
-let age=23;
+let a="imran"
+let age=29;
 const energy="main";
-console.log(`hello, i am ${a} and i am ${age} years old and i have energy of ${energy} character`);
+console.log(`hello, i am ${a} and i am ${age} years old  of ${energy} character`);
 //console.log(a,typeof a);
 // let b=new String("khushi");
 // console.log(b,typeof b);
