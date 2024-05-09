@@ -12,3 +12,6 @@ console.log(`hello, i am ${a} and i am ${age} years old and i have energy of ${e
 // console.log(a.toLowerCase());
 // console.log(a.split('u'));
 // console.log(a.trim());
+console.log(a.charAt(2));
+console.log(a.indexOf('u'));
+console.log(a.replace('k','p'));
